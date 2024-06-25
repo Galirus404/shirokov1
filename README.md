@@ -6,4 +6,4 @@ git clone https://github.com/Galirus404/Shirokov1
 
 cd Shirokov1
 
-python3 shiro.py
+bash shiro.sh
